@@ -1,0 +1,87 @@
+.navbar{
+	border-bottom-color: #E580E3;
+	border-bottom-width: 3px;
+}
+
+.text-muted{
+	color: #999999;
+}
+
+.text-spacing {
+	line-height: 2.3;
+}
+
+#footer{
+	position: fixed;
+	bottom: 0px;
+	height: 60px;
+	width: 100%;
+	background-color: #f5f5f5;
+
+	padding: 5px;
+	padding-top: 10px;
+}
+
+.caption-text{
+	color: #444444;
+	font-size: 16px;
+}
+
+.front-img {
+	height: 140px;
+	width: 140px;
+}
+
+.front-block{
+	margin-top: 25px;
+	margin-bottom: 10px;
+}
+
+.center{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.text-padding-top{
+	padding-top: 10px;
+}
+
+.spacer-header{
+	margin-top: 80px;
+}
+
+.sub-page-header{
+	margin-bottom: 20px;
+	font-size: 20px;
+}
+
+
+.project-preview{
+	margin-bottom: 25px;
+}
+
+.description-box{
+	min-height: 400px;
+	background-color: #5FDDF0;
+}
+
+.description-box p {
+	color: #333;
+}
+
+.people-section{
+	padding-bottom: 50px;
+}
+
+.links-box{
+	min-height: 400px;
+	background-color: #cdd0d4;
+}
+
+.team-member{
+	margin-bottom: 25px;
+}
+.team-member p, h4{
+	margin: 3px;
+}
