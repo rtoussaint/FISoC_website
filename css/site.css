@@ -1,5 +1,5 @@
 .navbar{
-	border-bottom-color: #E580E3;
+	border-bottom-color: #77bf35;
 	border-bottom-width: 3px;
 }
 
@@ -63,7 +63,7 @@
 
 .description-box{
 	min-height: 400px;
-	background-color: #5FDDF0;
+	background-color: #77bf35;
 }
 
 .description-box p {
@@ -84,4 +84,8 @@
 }
 .team-member p, h4{
 	margin: 3px;
+}
+
+a:hover{
+	text-decoration: none; 
 }
