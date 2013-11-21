@@ -300,11 +300,11 @@ html {
 }
 
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.428571429;
-  color: #333333;
-  background-color: #ffffff;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.428571429;
+	color: #333333;
+	background-color: #77bf35;
 }
 
 input,
@@ -6802,4 +6802,6 @@ td.visible-print {
   td.hidden-print {
     display: none !important;
   }
+}.container .row .col-sm-3 p strong {
+	text-align: justify;
 }
